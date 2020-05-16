@@ -10,11 +10,15 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-•	https://github.com/CJBless/liftoff-assignments/blob/6a06b7a0de0f2df721c3d65889c8a2311c977815/Maintainer%20app-Maintainer-dash.jpg
+• https://github.com/CJBless/liftoff-assignments/blob/master/Maintainer%20app-Maintainer-login.jpg
 
-•	https://github.com/CJBless/liftoff-assignments/blob/6a06b7a0de0f2df721c3d65889c8a2311c977815/Maintainer%20app-Maintainer-appt.jpg
+• https://github.com/CJBless/liftoff-assignments/blob/master/Maintainer%20app-Maintainer-register.jpg
 
-•	https://github.com/CJBless/liftoff-assignments/blob/6a06b7a0de0f2df721c3d65889c8a2311c977815/Maintainer%20app-Maintainer-reminders.jpg
+•	https://github.com/CJBless/liftoff-assignments/blob/master/Maintainer%20app-Maintainer-dash.jpg
+
+•	https://github.com/CJBless/liftoff-assignments/blob/master/Maintainer%20app-Maintainer-appt.jpg
+
+•	https://github.com/CJBless/liftoff-assignments/blob/master/Maintainer%20app-Maintainer-reminders.jpg
 
 ### Project Tracker
 
